@@ -6,6 +6,7 @@ Assists in the proper functioning of school student management.
 pip install tkcalendar
 
 ```
+
 ## Install Requirements in Linux
 ```bash
 sudo apt-get update
